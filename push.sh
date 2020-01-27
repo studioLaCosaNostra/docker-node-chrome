@@ -1,0 +1,1 @@
+docker image push studiolacosanostra/angular:12

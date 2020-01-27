@@ -1,0 +1,1 @@
+docker image build --tag studiolacosanostra/angular:12 .
